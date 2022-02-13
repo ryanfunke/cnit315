@@ -27,7 +27,6 @@ int main()
     float discount = 0.0;
 
     /* Pseudo-Code 
-
     Calculate and display reamining number of cubic feet available in shipping container
 
     Ask user for number of type 1 boxes
