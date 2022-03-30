@@ -26,6 +26,7 @@ int main()
     int counter = 0;
     int exitFlag = 0;
     char s[250];
+    
     do{
         /* Variable initialization for each loop */
         int funcNum = 0;
