@@ -38,6 +38,7 @@ int main()
 
 void mazeGo(char mazeRep[ROWS][COLUMNS], int x, int y)
 {
+  
     if (mazeRep[y][x] == 'G')
     {
         /* Throw final print loop in here */
